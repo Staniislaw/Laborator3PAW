@@ -1,0 +1,25 @@
+body {
+  background-color: #430a5d;
+  color: #5f374b;
+  text-align: center;
+  font-family: "Roboto";
+}
+h1 {
+  color: #eee4b1;
+  font-family: "Roboto";
+}
+img {
+  border-radius: 50%;
+  width: 500px;
+}
+li {
+  color: #eee4b1;
+  list-style-image: url("close.png");
+}
+ul {
+  display: inline-block;
+}
+.lni-envelope {
+  font-size: 50px !important;
+  color: #eee4b1 !important;
+}
